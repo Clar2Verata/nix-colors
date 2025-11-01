@@ -6,7 +6,7 @@
     nixpkgs-lib.url = "github:nix-community/nixpkgs.lib";
 
     # Upstream source of .yaml base16 schemes
-    base16-schemes.url = "github:tinted-theming/base16-schemes";
+    base16-schemes.url = "github:Clar2Verata/Colorscheme16-Reloaded";
     base16-schemes.flake = false;
   };
 
